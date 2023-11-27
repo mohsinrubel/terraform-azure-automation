@@ -1,0 +1,4 @@
+# IacTerraform
+
+## Terraform setup 
+* Linux: 
